@@ -1,3 +1,18 @@
+# This plugin was rewritten
+
+This version is deprecated as a local plugin and rewritten as an admin tool, see:
+
+https://github.com/catalyst/moodle-tool_clonecategory
+
+
+
+
+
+
+
+
+
+
 # clone category
 
 a plugin to perform a backup/restore of every course in a category to a newly speicifed category, modifying some properties as you go.
